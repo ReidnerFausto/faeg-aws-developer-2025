@@ -1,6 +1,6 @@
 import boto3
 
-bucket_name = "waltercoan1980"
+bucket_name = "reidnerfausto2002"
 # API high level
 s3 = boto3.resource('s3')
 
